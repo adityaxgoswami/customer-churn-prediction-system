@@ -1,10 +1,12 @@
 # 📊 Customer Churn Prediction System
 
-A Deep Learning-based web application that predicts whether a customer is likely to leave a bank using demographic and financial information. The project leverages an Artificial Neural Network (ANN) built with TensorFlow/Keras and provides real-time churn predictions through an interactive interface.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](YOUR_STREAMLIT_LINK)
+[![Python](https://img.shields.io/badge/Python-3.10-blue)](...)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)](...)
 
-🚀 Live Demo: [https://your-streamlit-app.streamlit.app](https://ann-mini-classification-gskeev5n4xv3pacngjtigz.streamlit.app/)
+A Deep Learning-based web application that predicts customer churn using customer demographic and financial information.
 
-⭐ Built with TensorFlow, Keras, Scikit-learn and Streamlit.
+🚀 **Live Demo:** https://ann-mini-classification-gskeev5n4xv3pacngjtigz.streamlit.app/
 ---
 
 ## 🚀 Overview
